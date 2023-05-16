@@ -1,0 +1,14 @@
+a{
+    padding: 10px;
+}
+a:hover{
+    border-top: 1px solid black;
+}
+.apartados{
+    margin: 10px;
+    display: flex;
+    align-items: center;
+}
+header{
+    background-color:aliceblue;
+}
